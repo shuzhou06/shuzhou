@@ -1,1 +1,3 @@
-这是中国的
+hello world!
+
+welcome to China!
