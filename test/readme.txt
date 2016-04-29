@@ -1,3 +1,1 @@
-hello world!
-
-welcome to China!
+welcome to China
